@@ -96,7 +96,8 @@
                         - useNavigate : redirect from one page to another
                         - useDispatch : to dispatch action in redux
                         - useSelector : to access state from store in redux
-                    - custom Hooks
+                    - custom Hooks : When you have component logic that needs to be used by multiple components, we can extract that logic to a custom Hook
+                        - start with "use" keyword
             - Different between functional and class based component
 
                     Functional Component                                Class based component
